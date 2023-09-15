@@ -1,0 +1,19 @@
+[[pages]]
+path = "streamlit_app.py"
+name = "首页"
+icon = "🏠"
+
+[[pages]]
+path = "./pages/auth/register.py"
+name = "注册"
+icon = ""
+
+[[pages]]
+path = "./pages/auth/forget_password.py"
+name = "忘记密码"
+icon = ""
+
+[[pages]]
+path = "./pages/auth/forget_username.py"
+name = "忘记用户名"
+icon = ""

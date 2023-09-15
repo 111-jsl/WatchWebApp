@@ -1,0 +1,14 @@
+cookie:
+  expiry_days: 0
+  key: some_signature_key
+  name: some_cookie_name
+credentials:
+  usernames:
+    admin:
+      email: 2503083413@qq.com
+      name: admin
+      password: $2b$12$EEJVLcoCFBLqnloD3ZZwwOB1PxzXpcWE2.dskiSZrXrkVPdfVDXnq
+    daz:
+      email: 2503083413@qq.com
+      name: daz
+      password: $2b$12$UGkWF/ek/2JyjombtPZUO.qH5LIkISbZDE62tFutNGzmGzqhqwgKa

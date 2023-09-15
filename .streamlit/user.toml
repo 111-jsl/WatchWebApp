@@ -1,0 +1,25 @@
+[[pages]]
+path = "streamlit_app.py"
+name = "首页"
+icon = "🏠"
+
+[[pages]]
+path = "pages/workbench/create.py"
+name = "创建"
+icon = "🪄"
+
+[[pages]]
+path = "pages/workbench/search.py"
+name = "搜索"
+icon = "🔍"
+
+
+[[pages]]
+path = "pages/analysis/visualize.py"
+name = "可视化"
+icon = "📊"
+
+[[pages]]
+path = "./pages/auth/reset_password.py"
+name = "修改密码"
+icon = ""
